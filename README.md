@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="tech.png" height="200" width=100%/>
 </p>
 <br>
 
-
-
-<h3> About Me </h3>
+Hello, this is **Karnan Seevaratnam**
 
 - 😄 Pronouns: He/Him/His 
 
