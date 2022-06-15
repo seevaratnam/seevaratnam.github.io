@@ -26,6 +26,7 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
 ### Machine Learning & AI Projects
 * #### [Natural Language Processing – Conversation Analytics](https://github.com/team-bathurst/891/blob/main/MMAI891_Online_Orders_TFIDF.ipynb)
     * Built a text classification model that can classify new messages into one of the given (predefined) topics.
+* #### [Predicting the Stock Markets with Naive Machine Learning](https://github.com/team-bathurst/823/blob/main/session4/Session%204%20-%2002%20-%20Algorithm%20Trading%20-%20ML.ipynb)
 
 ### Cybersecurity Projects
 * #### [Automated ELK Stack Azure Deployment](https://github.com/seevaratnam/elk-server)
