@@ -27,7 +27,8 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
 
 ## 📝 Recent Projects
 
-* ### [Automated ELK Stack Deployment](https://github.com/seevaratnam/elk-server)
+* ### [Automated ELK Stack Azure Deployment](https://github.com/seevaratnam/elk-server)
+<img src="images/elk-final-diagram.png"/>
 * 
 
 
