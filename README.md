@@ -30,6 +30,8 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
 ### Architecture Design & Solutions
 * #### [Straight Through Claim Processing](https://github.com/seevaratnam/zero-touch-claim-processing-design)
     <img src="images/aligned-solution-architecture.png"/>
+* #### [Promo Based Claim Workflow](https://github.com/seevaratnam/promo-claim-workflow)
+    <img src="images/promo-claim-workflow.png"/>
 * #### [Team Architecture](https://github.com/seevaratnam/team-architecture)
     * Motivated People Build Better Stuff - Servant Master Mindset
 ### Machine Learning & AI Projects
