@@ -33,7 +33,10 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
 * #### [Promo Based Claim Workflow](https://github.com/seevaratnam/promo-claim-workflow)
     <img src="images/promo-claim-workflow.png"/>
 * #### [Storage Platform Architecture and Design](https://github.com/seevaratnam/storage-platform-architecture)
-    <img src="images/notification-scope.png"/>
+    <img src="images/user-flow.png"/>
+    <img src="images/event-storming.png"/>
+    <img src="images/blue-green-architecture.png"/>
+    <img src="images/cicd_pipeline.png"/>
 * #### [Team Architecture](https://github.com/seevaratnam/team-architecture)
     * Motivated People Build Better Stuff - Servant Master Mindset
 
