@@ -32,7 +32,7 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
 </p>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <br>
