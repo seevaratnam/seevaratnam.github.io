@@ -2,22 +2,13 @@
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
-![Welcome Banner](banner.gif)
 
 
 <img align="left" height="270px" alt="hello_world" src="pic.png" />
 
-<h3> :woman: &nbsp;About Me </h3>
+<h3> :man: &nbsp;About Me </h3>
 
-- 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
-- :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
-- 👯 I’m always looking to collaborate with: scientist from any field
-- 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
-- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
+- 😄 Pronouns: He/Him/His 
 
 <br/>
 
@@ -65,11 +56,8 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+<a href="https://www.linkedin.com/in/karnan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:karnan@thambu.ca?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 
@@ -77,15 +65,15 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 <br/> 
 <p>
 
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
+<a align= "center" href="https://github.com/seevaratnam">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=seevaratnam&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 <br/>
 
 <p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/seevaratnam"/>
 </p>
 
 Last edited on: 06/14/2022
