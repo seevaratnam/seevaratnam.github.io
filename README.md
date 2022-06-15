@@ -34,6 +34,7 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
     <img src="images/promo-claim-workflow.png"/>
 * #### [Team Architecture](https://github.com/seevaratnam/team-architecture)
     * Motivated People Build Better Stuff - Servant Master Mindset
+
 ### Machine Learning & AI Projects
 * #### [Natural Language Processing – Conversation Analytics](https://github.com/team-bathurst/891/blob/main/MMAI891_Online_Orders_TFIDF.ipynb)
     * Built a text classification model that can classify new messages into one of the given (predefined) topics.
