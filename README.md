@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/tech.png" height="200" width=100%/>
-</p>
+![](images/tech.png)
 <br>
 
 Hello, this is **Karnan Seevaratnam**
