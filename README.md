@@ -6,7 +6,6 @@ Hello, this is **Karnan Seevaratnam**
 Leads architecture, IT governance teams and manages enterprise solutions to optimize the user experience, minimize redundancies and maximize profitability.
 <br/>
 ## 🛠 Technologies & Tools
-<br/>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
