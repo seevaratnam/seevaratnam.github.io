@@ -3,6 +3,10 @@
 
 Hello, this is **Karnan Seevaratnam**
 
+A visionary leader in technology with a track record of maximizing the use of the latest technology to solve
+industry problems. I am a dedicated and proven leader with 20 years of experience in the field of Information Technology, with
+expertise in the telecommunication, education, charity and retail and loyalty industries. As an ardent follower of Agile and Lean methodology, I am always looking to find the most innovative ways to save time, improve efficiency and maximize profitability.
+
 Leads architecture, IT governance teams and manages enterprise solutions to optimize the user experience, minimize redundancies and maximize profitability.
 <br/>
 ## 🛠 Technologies & Tools
