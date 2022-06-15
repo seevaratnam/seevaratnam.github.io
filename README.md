@@ -25,11 +25,10 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
 <br/>
 
-<p>
-
 ## 📝 Recent Projects
 
-</p>
+* ### [Automated ELK Stack Deployment](https://github.com/seevaratnam/elk-server)
+* 
 
 
 ## 🤝🏻 &nbsp;Connect with Me
