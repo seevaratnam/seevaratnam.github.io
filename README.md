@@ -27,6 +27,9 @@ Leads architecture, IT governance teams and manages enterprise solutions to opti
 <br/>
 
 ## 📝 Projects
+### Architecture Design & Solutions
+* #### [Straight Through Claim Processing](https://github.com/seevaratnam/zero-touch-claim-processing-design)
+    <img src="images/aligned-solution-architecture.png"/>
 ### Machine Learning & AI Projects
 * #### [Natural Language Processing – Conversation Analytics](https://github.com/team-bathurst/891/blob/main/MMAI891_Online_Orders_TFIDF.ipynb)
     * Built a text classification model that can classify new messages into one of the given (predefined) topics.
